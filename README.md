@@ -1,3 +1,11 @@
+## In this project, we need to fetch the data which is in JSON form and display it according to requrement.
+
+## Netlify
+Project deployed to netlify : https://saket-ftl.netlify.app/
+
+## Technology Used
+Javascript, BootStrap, Material-UI, React.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
