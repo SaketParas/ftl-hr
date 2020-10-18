@@ -1,0 +1,156 @@
+[{
+	"ok": true,
+	"members": [{
+			"id": "W012A3CDE",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"img" : "https://fortmyersradon.com/wp-content/uploads/2019/12/dummy-user-img-1.png",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:34PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:30PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPMU",
+			"real_name": "Saket Paras",
+			"tz": "Asia/Bihar",
+			"img" : "https://avatars0.githubusercontent.com/u/53759010?s=460&u=cfaac102081eec1d6126e95fba281966f7a76e7b&v=4",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:13PM",
+					"end_time": "Feb 1 2020 2:50PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 9 2020  4:23PM",
+					"end_time": "Mar 9 2020 6:22PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPGF",
+			"real_name": "Glinda Southgood",
+			"tz": "America/Los_Angeles",
+			"img" : "https://cdn.iconscout.com/icon/free/png-256/avatar-376-456328.png",
+			"activity_periods": [{
+					"start_time": "Nov 7 2020  1:33PM",
+					"end_time": "Nov 7 2020 2:44PM"
+				},
+				{
+					"start_time": "Mar 5 2020  5:33PM",
+					"end_time": "Mar 5 2020 8:22PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPECD",
+			"real_name": "Rashmi Nidhi",
+			"tz": "Asia/Bangalore",
+			"img" : "https://scontent.fpat3-1.fna.fbcdn.net/v/t1.0-0/s526x395/79284980_2692299304171959_1392459827933872128_o.jpg?_nc_cat=105&_nc_sid=09cbfe&_nc_ohc=0Dcy9qyOo_EAX_J1w-a&_nc_ht=scontent.fpat3-1.fna&tp=7&oh=d9c7a4d5e2e9d4b5796b7217e842d393&oe=5FB12174",
+
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  2:32PM",
+					"end_time": "Feb 1 2020 4:55PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:41AM",
+					"end_time": "Mar 1 2020 2:10PM"
+				},
+				{
+					"start_time": "Mar 7 2020  5:23PM",
+					"end_time": "Mar 7 2020 8:52PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPXY",
+			"real_name": "Nawal Kishore",
+			"tz": "Asia/Kolkata",
+			"img" : "https://i0.wp.com/www.generous-care.com/wp-content/uploads/2017/10/Flat-Icon-Man-01.png?fit=417%2C417&ssl=1",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  21:17AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Aug 2 2020  3:43PM",
+					"end_time": "Aug 2 2020 6:22PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPJH",
+			"real_name": "Abhishek Bharati",
+			"tz": "India/Bangalore",
+			"img" : "https://scontent.fpat3-1.fna.fbcdn.net/v/t1.0-0/c0.0.1120.1120a/s526x395/43592898_1887563254653032_7876155656409972736_o.jpg?_nc_cat=100&_nc_sid=174925&_nc_ohc=zlECRi9kVNoAX-r5qDp&_nc_ht=scontent.fpat3-1.fna&_nc_tp=28&oh=7d884ae03ed23ea497adfd5272f7114c&oe=5FB21D5F",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:44PM",
+					"end_time": "Feb 1 2020 4:55PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:31AM",
+					"end_time": "Mar 1 2020 2:22PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPNR",
+			"real_name": "Archana Devi",
+			"tz": "Asia/Kolkata",
+			"img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcScj1w0UCdIr4kUblujW7B7IdaZoRmdHyZP5A&usqp=CAU",
+			"activity_periods": [{
+					"start_time": "June 1 2020  1:23PM",
+					"end_time": "June 1 2020 5:44PM"
+				},
+				{
+					"start_time": "Jan 1 2020  11:55AM",
+					"end_time": "Jan 1 2020 7:30PM"
+				},
+				{
+					"start_time": "Dec 7 2020  4:33PM",
+					"end_time": "Dec 7 2020 8:22PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPGZ",
+			"real_name": "Amit Singh",
+			"tz": "America/Los_Angeles",
+			"img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBGfoR24g82fsdyUuCCIb672C6sh1hQStEKw&usqp=CAU",
+			"activity_periods": [{
+					"start_time": "Nov 7 2020  1:03PM",
+					"end_time": "Nov 7 2020 2:44PM"
+				},
+				{
+					"start_time": "Mar 9 2020  5:33PM",
+					"end_time": "Mar 9 2020 8:02PM"
+				}
+			]
+		},	
+		{
+			"id": "W012A3CHG",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"img" : "https://ayurvedaasitis.com/wp-content/uploads/2020/06/man-300x300-1.png",
+			"activity_periods": [{
+					"start_time": "Mar 5 2020  5:43PM",
+					"end_time": "Mar 5 2020 8:34PM"
+				},
+				{
+					"start_time": "Apr 4 2020  5:33PM",
+					"end_time": "Apr 4 2020 8:02PM"
+				}
+			]
+		}
+	]
+}]
