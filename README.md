@@ -6,6 +6,9 @@ Project deployed to netlify : https://saket-ftl.netlify.app/
 ## Technology Used
 Javascript, BootStrap, Material-UI, React.js
 
+## Responsive
+Available for multi size screen.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
